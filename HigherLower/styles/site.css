@@ -1,0 +1,38 @@
+html {
+    text-align: center;
+    padding-top: 40;
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 90;
+}
+
+p {
+    font-size: 50;
+}
+
+label {
+    display: block;
+    margin-right: 250;
+    font-size: 50;
+
+}
+
+input {
+    width: 500;
+    height: 90;
+    font-size: 50;
+}
+
+button {
+    padding: 20;
+    border-radius: 5px;
+    width: 100;
+    font-size: 20;
+    margin-right: 400;
+}
+.button2 {
+    font-size: 15;
+    background-color:cornflowerblue;
+}
